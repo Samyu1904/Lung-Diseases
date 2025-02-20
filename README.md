@@ -14,7 +14,7 @@ The *Lung-Disease Detection Using Deep Learning* project aims to develop a syste
 - *Frameworks*: TensorFlow/Keras, PyTorch
 - *Web Framework*: Flask/Django (for API and UI integration)
 - *Libraries*: OpenCV, NumPy, Pandas, Matplotlib, Scikit-learn
-- *Dataset*: Publicly available medical image datasets (e.g., Chest X-ray, Skin Disease Images)
+- *Dataset*: Publicly available medical image datasets (e.g., Chest X-ray)
 
 ## ⚙ Installation Guide
 ### Prerequisites
@@ -59,7 +59,7 @@ python app.py
 - Upload an image and get disease predictions.
 
 ## 📊 Model Performance
-- *Accuracy*: Achieved ~90% accuracy on the test dataset.
+- *Accuracy*: Achieved ~60% accuracy on the test dataset.
 - *Precision & Recall*: Evaluated using standard classification metrics.
 - *Confusion Matrix*: Analyzed for misclassification trends.
 

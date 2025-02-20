@@ -65,7 +65,7 @@ python app.py
 
 ## 📁 Project Structure
 
-multi-disease-detection/
+Lung-disease-detection/
 │-- dataset/                 # Dataset directory
 │-- models/                  # Trained models and checkpoints
 │-- static/                  # Static files (CSS, JS, Images)
@@ -75,9 +75,9 @@ multi-disease-detection/
 │-- README.md                # Project documentation
 
 
-## 🔗 Dataset Sources
+## 🔗 Dataset Source
 - [NIH Chest X-ray Dataset](https://nihcc.app.box.com/v/ChestXray-NIHCC)
-- [Skin Disease Dataset](https://www.kaggle.com/datamunge/significant-skin-disease-dataset)
+
 
 ## 🔥 Future Enhancements
 - Improve model performance by using transfer learning.
